@@ -1,0 +1,10 @@
+E:\Amsys c#\programas c#\cinconotas\cinconotas\bin\Debug\cinconotas.exe.config
+E:\Amsys c#\programas c#\cinconotas\cinconotas\bin\Debug\cinconotas.exe
+E:\Amsys c#\programas c#\cinconotas\cinconotas\bin\Debug\cinconotas.pdb
+E:\Amsys c#\programas c#\cinconotas\cinconotas\obj\Debug\cinconotas.csproj.AssemblyReference.cache
+E:\Amsys c#\programas c#\cinconotas\cinconotas\obj\Debug\cinconotas.Form1.resources
+E:\Amsys c#\programas c#\cinconotas\cinconotas\obj\Debug\cinconotas.Properties.Resources.resources
+E:\Amsys c#\programas c#\cinconotas\cinconotas\obj\Debug\cinconotas.csproj.GenerateResource.cache
+E:\Amsys c#\programas c#\cinconotas\cinconotas\obj\Debug\cinconotas.csproj.CoreCompileInputs.cache
+E:\Amsys c#\programas c#\cinconotas\cinconotas\obj\Debug\cinconotas.exe
+E:\Amsys c#\programas c#\cinconotas\cinconotas\obj\Debug\cinconotas.pdb
