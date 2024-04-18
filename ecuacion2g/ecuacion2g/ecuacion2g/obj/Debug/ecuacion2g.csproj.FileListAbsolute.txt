@@ -1,0 +1,10 @@
+E:\Amsys c#\programas c#\ecuacion2g\ecuacion2g\bin\Debug\ecuacion2g.exe.config
+E:\Amsys c#\programas c#\ecuacion2g\ecuacion2g\bin\Debug\ecuacion2g.exe
+E:\Amsys c#\programas c#\ecuacion2g\ecuacion2g\bin\Debug\ecuacion2g.pdb
+E:\Amsys c#\programas c#\ecuacion2g\ecuacion2g\obj\Debug\ecuacion2g.csproj.AssemblyReference.cache
+E:\Amsys c#\programas c#\ecuacion2g\ecuacion2g\obj\Debug\ecuacion2g.Form1.resources
+E:\Amsys c#\programas c#\ecuacion2g\ecuacion2g\obj\Debug\ecuacion2g.Properties.Resources.resources
+E:\Amsys c#\programas c#\ecuacion2g\ecuacion2g\obj\Debug\ecuacion2g.csproj.GenerateResource.cache
+E:\Amsys c#\programas c#\ecuacion2g\ecuacion2g\obj\Debug\ecuacion2g.csproj.CoreCompileInputs.cache
+E:\Amsys c#\programas c#\ecuacion2g\ecuacion2g\obj\Debug\ecuacion2g.exe
+E:\Amsys c#\programas c#\ecuacion2g\ecuacion2g\obj\Debug\ecuacion2g.pdb
