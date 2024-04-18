@@ -1,0 +1,10 @@
+E:\Amsys c#\programas c#\expresionm4\expresionm4\bin\Debug\expresionm4.exe.config
+E:\Amsys c#\programas c#\expresionm4\expresionm4\bin\Debug\expresionm4.exe
+E:\Amsys c#\programas c#\expresionm4\expresionm4\bin\Debug\expresionm4.pdb
+E:\Amsys c#\programas c#\expresionm4\expresionm4\obj\Debug\expresionm4.csproj.AssemblyReference.cache
+E:\Amsys c#\programas c#\expresionm4\expresionm4\obj\Debug\expresionm4.Form1.resources
+E:\Amsys c#\programas c#\expresionm4\expresionm4\obj\Debug\expresionm4.Properties.Resources.resources
+E:\Amsys c#\programas c#\expresionm4\expresionm4\obj\Debug\expresionm4.csproj.GenerateResource.cache
+E:\Amsys c#\programas c#\expresionm4\expresionm4\obj\Debug\expresionm4.csproj.CoreCompileInputs.cache
+E:\Amsys c#\programas c#\expresionm4\expresionm4\obj\Debug\expresionm4.exe
+E:\Amsys c#\programas c#\expresionm4\expresionm4\obj\Debug\expresionm4.pdb
